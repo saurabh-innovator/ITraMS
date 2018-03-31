@@ -3,7 +3,7 @@ import requests
  
 # api-endpoint
 URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=28.6758058,
-77.5000373&radius=1000&type=hospital&key=AIzaSyBPH6Eej16ErJTF7TLs-WC5sI9Vm9gd1VY"
+            77.5000373&radius=1000&type=hospital&key=AIzaSyBPH6Eej16ErJTF7TLs-WC5sI9Vm9gd1VY"
  
 # location given here
 #location = "delhi technological university"
